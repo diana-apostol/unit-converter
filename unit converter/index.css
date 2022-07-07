@@ -1,0 +1,120 @@
+body {
+    margin: 0;
+    background-color: pink; 
+    height: 100%;
+    padding-bottom: 280px;   
+}
+
+#first{
+    position: absolute
+    width: 300px;
+    height: 100px; 
+  padding: 50px;
+
+background: #6943FF;
+}
+
+#heading{
+    position: absolute;  
+    top: 5px;
+    height: 38px; 
+    font-family: 'Inter'; 
+    font-style: normal;
+    font-weight: 800;
+    
+    color: #FFFFFF;
+}
+ #textbox{
+     box-sizing: border-box;
+
+position: absolute;
+width: 75px;
+height: 75px; 
+top: 50px;
+left: 125px; 
+
+
+background:#6943FF;
+border: 1px solid #FFFFFF;
+border-radius: 5px;
+
+font-family: 'Inter'; 
+font-style: normal; 
+font-weight: 800;
+font-size: 25px;
+text-align: center;
+
+color: #FFFFFF;
+ }
+ 
+ #convert{
+     position: absolute; 
+     width: 75px;
+     height: 30px;
+     top: 140px;
+     left: 125px;
+     
+     background: #FFFFFF;
+     border-radius: 5px;
+     
+     font-family: "Inter";
+     font-style: normal;
+     font-size: 15px;
+     text-align: center;
+     
+ }
+ 
+ #length{
+     position:  absolute;
+     width: 280px;
+     height: 60px;
+     left: 10px;
+     right: 10 px; 
+     background: #FFFFFF; 
+     border: 8px solid #FFFFFF; 
+     border-radius: 3px; 
+    
+     
+     text-align: center;
+     font-family: 'Inter';
+     font-style: normal;
+     font-size: 15px
+      
+ }
+ 
+ #volume{
+      position:  absolute;
+     width: 280px;
+     height: 60px;
+     top: 290px;
+     left: 10px;
+     right: 10 px; 
+     background: #FFFFFF; 
+     border: 8px solid #FFFFFF; 
+     border-radius: 3px; 
+    
+     
+     text-align: center;
+     font-family: 'Inter';
+     font-style: normal;
+     font-size: 15px 
+ }
+ 
+  #mass{
+      position:  absolute;
+     width: 280px;
+     height: 60px;
+     top: 380px;
+     left: 10px;
+     right: 10 px; 
+     background: #FFFFFF; 
+     border: 8px solid #FFFFFF; 
+     border-radius: 3px; 
+       
+     
+     text-align: center;
+     font-family: 'Inter';
+     font-style: normal;
+     font-size: 15px 
+ }
+ 
